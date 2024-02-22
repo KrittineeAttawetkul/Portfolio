@@ -1,3 +1,4 @@
+
 # Hi, I'm Krittinee
 ## About Me
 
@@ -26,3 +27,14 @@ Engineer student at Bangkok University.Possesses planning and thinking skills. A
     - Drawing
     - Digital Art
 - Journaling
+
+## Plans
+- I'm currently working on...
+    - Productivity
+    - Self-Improvement
+    - Mindset
+
+- I'm currently learning...
+    - Microsoft Excel
+    - GitHub
+    - 3D Modeling
